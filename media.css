@@ -1,0 +1,44 @@
+/* mobile */
+	@media(min-width:320px){
+		.servics-col{
+			width:100%;
+		}
+		.services-icon{
+			position:absolute;
+			bottom:63%;
+			left:43%;
+		}
+	}
+
+
+
+
+/* i-pad */
+	@media(min-width:760px){
+		.servics-col{
+			width:50%;
+		}
+		.services-icon{
+			position:absolute;
+			bottom:43%;
+					
+			left:43%;
+		}
+	}
+
+
+
+
+
+/* labtop */
+
+	@media(min-width:960px){
+		.servics-col{
+			width:33.33%;
+		}
+		.services-icon{
+		position:absolute;
+		bottom:30%;
+		left:43%;
+		}
+	}
